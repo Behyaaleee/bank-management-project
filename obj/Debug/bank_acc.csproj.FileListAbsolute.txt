@@ -1,0 +1,45 @@
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\bin\Debug\bank_acc.exe.config
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\bin\Debug\bank_acc.exe
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\bin\Debug\bank_acc.pdb
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.csprojAssemblyReference.cache
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.Properties.Resources.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.csproj.GenerateResource.cache
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.csproj.CoreCompileInputs.cache
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.exe
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.pdb
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.Form0.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.start.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.add_child.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.admin_menu.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.sign_up.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.login.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.main_menu.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.child_menu.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.withdraw.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.deposit.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.inquiry.resources
+F:\AAST\Abdelrahman\Term 5\advanced programming\project\GUI\bank_acc\obj\Debug\bank_acc.transfer.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\bin\Debug\bank_acc.exe.config
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\bin\Debug\bank_acc.exe
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\bin\Debug\bank_acc.pdb
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.Form0.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.start.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.add_child.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.admin_menu.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.sign_up.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.login.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.main_menu.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.child_menu.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.withdraw.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.deposit.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.inquiry.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.transfer.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.exe
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.pdb
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.Change.resources
+C:\Users\moham\OneDrive\Desktop\Bank Service\bank_acc\obj\Debug\bank_acc.Admin_inquiry.resources
